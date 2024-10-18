@@ -1,0 +1,4 @@
+connection_secrets.sh
+sip-registrations-serviceprovider.csv
+*.pem
+*.log

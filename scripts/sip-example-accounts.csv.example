@@ -1,0 +1,5 @@
+SEQUENTIAL;;;;
+user1;sipserver.io;[authentication username=user1 password=safe36];0046890510;testtenant.io
+#31;192.168.1.211;[authentication username=31 password=safe31];34;handlarn.se
+#32;192.168.1.211;[authentication username=32 password=safe32];35;handlarn.se
+#(user part of uri, server address, auth tag, call target);;;;
